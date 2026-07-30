@@ -1,0 +1,1204 @@
+Mol ID,Molecule Name,Target Name
+MOL000122,"1,8-cineole",NOS3
+MOL000122,"1,8-cineole",GABRA2
+MOL000122,"1,8-cineole",GABRA1
+MOL000122,"1,8-cineole",CYP101A1(camC)
+MOL000122,"1,8-cineole",PTGS2
+MOL000122,"1,8-cineole",GABRA5
+MOL000122,"1,8-cineole",ADH1B
+MOL000122,"1,8-cineole",ADH1C
+MOL000122,"1,8-cineole",CHRNA2
+MOL000122,"1,8-cineole",GABRA3
+MOL000122,"1,8-cineole",PRODH
+MOL001300,PEL,ADH1B
+MOL001300,PEL,ADH1C
+MOL001300,PEL,cobT
+MOL001300,PEL,PRSS3
+MOL001300,PEL,ADH1A
+MOL001300,PEL,MAOA
+MOL001689,acacetin,NOS2
+MOL001689,acacetin,PTGS1
+MOL001689,acacetin,AR
+MOL001689,acacetin,PTGS2
+MOL001689,acacetin,DPP4
+MOL001689,acacetin,HSP90AA1 / HSP90AB1
+MOL001689,acacetin,CDK2
+MOL001689,acacetin,PRKACA
+MOL001689,acacetin,PRSS1
+MOL001689,acacetin,NCOA2
+MOL001689,acacetin,NCOA1
+MOL001689,acacetin,CALM1
+MOL001689,acacetin,PIK3CG
+MOL001689,acacetin,CHEK1
+MOL001689,acacetin,ADRB2
+MOL001689,acacetin,PDE3A
+MOL001689,acacetin,RELA
+MOL001689,acacetin,BCL2
+MOL001689,acacetin,CDKN1A
+MOL001689,acacetin,BAX
+MOL001689,acacetin,CASP3
+MOL001689,acacetin,TP53
+MOL001689,acacetin,CASP8
+MOL001689,acacetin,FASN
+MOL001689,acacetin,FASLG
+MOL001689,acacetin,CYP19A1
+MOL000173,wogonin,NOS2
+MOL000173,wogonin,PTGS1
+MOL000173,wogonin,ESR1
+MOL000173,wogonin,AR
+MOL000173,wogonin,SCN5A
+MOL000173,wogonin,PPARG
+MOL000173,wogonin,PTGS2
+MOL000173,wogonin,RXRA
+MOL000173,wogonin,PDE3A
+MOL000173,wogonin,DPP4
+MOL000173,wogonin,MAPK14
+MOL000173,wogonin,GSK3B
+MOL000173,wogonin,HSP90AA1 / HSP90AB1
+MOL000173,wogonin,CDK2
+MOL000173,wogonin,PIK3CG
+MOL000173,wogonin,CHEK1
+MOL000173,wogonin,PRKACA
+MOL000173,wogonin,PRSS1
+MOL000173,wogonin,CALM1
+MOL000173,wogonin,ADRB2
+MOL000173,wogonin,GABRA1
+MOL000173,wogonin,RELA
+MOL000173,wogonin,AKT1
+MOL000173,wogonin,CCND1
+MOL000173,wogonin,BCL2
+MOL000173,wogonin,CDKN1A
+MOL000173,wogonin,EIF6
+MOL000173,wogonin,BAX
+MOL000173,wogonin,CASP9
+MOL000173,wogonin,KDR
+MOL000173,wogonin,TNF
+MOL000173,wogonin,JUN
+MOL000173,wogonin,IL6
+MOL000173,wogonin,AHSA1
+MOL000173,wogonin,CASP3
+MOL000173,wogonin,TP53
+MOL000173,wogonin,BBC3
+MOL000173,wogonin,TERT
+MOL000173,wogonin,MMP1
+MOL000173,wogonin,CCL2
+MOL000173,wogonin,PRKCD
+MOL000173,wogonin,PTGER3
+MOL000173,wogonin,FN1
+MOL000173,wogonin,CXCL8
+MOL000173,wogonin,MCL1
+MOL013068,Oroxindin,F2
+MOL013068,Oroxindin,F10
+MOL013068,Oroxindin,CA2
+MOL013068,Oroxindin,PTPN1
+MOL000018,(+/-)-Isoborneol,CYP101A1(camC)
+MOL000018,(+/-)-Isoborneol,GABRA2
+MOL000018,(+/-)-Isoborneol,CHRM2
+MOL000018,(+/-)-Isoborneol,GABRA1
+MOL000018,(+/-)-Isoborneol,CHRM3
+MOL000018,(+/-)-Isoborneol,CHRM1
+MOL000018,(+/-)-Isoborneol,PTGS2
+MOL000018,(+/-)-Isoborneol,GABRA5
+MOL000018,(+/-)-Isoborneol,SLC6A2
+MOL000018,(+/-)-Isoborneol,ADRA1A
+MOL000018,(+/-)-Isoborneol,GABRA3
+MOL000018,(+/-)-Isoborneol,GABRA6
+MOL000018,(+/-)-Isoborneol,PGR
+MOL000198,(R)-linalool,CHRM1
+MOL000198,(R)-linalool,GABRA2
+MOL000198,(R)-linalool,CHRM2
+MOL000198,(R)-linalool,GABRA3
+MOL000198,(R)-linalool,GABRA6
+MOL000198,(R)-linalool,PTGS1
+MOL000198,(R)-linalool,KCNH2
+MOL000198,(R)-linalool,SCN5A
+MOL000198,(R)-linalool,F10
+MOL000198,(R)-linalool,PTGS2
+MOL000198,(R)-linalool,KDR
+MOL000198,(R)-linalool,TOP2A
+MOL000198,(R)-linalool,HSP90AA1 / HSP90AB1
+MOL000198,(R)-linalool,NCOA2
+MOL000198,(R)-linalool,KCNMA1
+MOL000198,(R)-linalool,CHRM3
+MOL000198,(R)-linalool,GABRA5
+MOL000198,(R)-linalool,GABRA1
+MOL000198,(R)-linalool,SLC6A2
+MOL000198,(R)-linalool,PGR
+MOL000219,BOX,MAOB
+MOL000219,BOX,ADH1B
+MOL000219,BOX,ADH1C
+MOL000219,BOX,ADH1A
+MOL000219,BOX,LYZ
+MOL000219,BOX,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL000219,BOX,cobT
+MOL000219,BOX,PLA2G2E
+MOL000219,BOX,PRSS3
+MOL000219,BOX,DAO
+MOL000219,BOX,HPBD (Bacterial TCMSP hit)
+MOL000219,BOX,CHRM3
+MOL000219,BOX,PTGS2
+MOL000219,BOX,GABRA2
+MOL000219,BOX,RXRA
+MOL000219,BOX,GABRA1
+MOL000219,BOX,NCOA2
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PTGS1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,DRD1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,CHRM3
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,CHRM1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,ESR1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,SCN5A
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PTGS2
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,RXRA
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PDE3A
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,ADRA1A
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,ADRA1B
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,SLC6A3
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,ADRB2
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,SLC6A4
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,GABRA1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,HSP90AA1 / HSP90AB1
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PIK3CG
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PRKACA
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,PKIA
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,CHRNA7
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,MAOB
+MOL000228,(2R)-7-hydroxy-5-methoxy-2-phenylchroman-4-one,CALM1
+MOL000024,alpha-humulene,PTGS2
+MOL000024,alpha-humulene,SLC6A2
+MOL000024,alpha-humulene,GABRA1
+MOL000024,alpha-humulene,NCOA2
+MOL000024,alpha-humulene,REN
+MOL000024,alpha-humulene,ADH1B
+MOL000024,alpha-humulene,ADH1C
+MOL000024,alpha-humulene,TNF
+MOL000024,alpha-humulene,IL1B
+MOL000254,eugenol,PTGS1
+MOL000254,eugenol,DRD1
+MOL000254,eugenol,CHRM3
+MOL000254,eugenol,CHRM1
+MOL000254,eugenol,ADRB1
+MOL000254,eugenol,PTGS2
+MOL000254,eugenol,NOS3
+MOL000254,eugenol,ADRA2A
+MOL000254,eugenol,ADRA2C
+MOL000254,eugenol,SLC6A2
+MOL000254,eugenol,ADRA1A
+MOL000254,eugenol,CHRM2
+MOL000254,eugenol,ADRA1B
+MOL000254,eugenol,SLC6A3
+MOL000254,eugenol,ADRB2
+MOL000254,eugenol,BLA (Bacterial TCMSP hit)
+MOL000254,eugenol,MAOB
+MOL000254,eugenol,MAOA
+MOL000254,eugenol,LYZ
+MOL000254,eugenol,CTRB1
+MOL000254,eugenol,ADRA1D
+MOL000254,eugenol,LTA4H
+MOL000254,eugenol,ADRA2B
+MOL000254,eugenol,PLAU
+MOL000254,eugenol,TLN (Bacterial TCMSP hit)
+MOL000254,eugenol,SCN5A
+MOL000254,eugenol,RELA
+MOL000254,eugenol,CYP1A1
+MOL000254,eugenol,CYP1B1
+MOL000254,eugenol,ALOX5
+MOL000254,eugenol,AHR
+MOL000254,eugenol,ABCC2
+MOL000254,eugenol,CD86
+MOL000254,eugenol,PPP3CA
+MOL000254,eugenol,PGA5
+MOL000254,eugenol,MUC1
+MOL000254,eugenol,NQO1
+MOL000254,eugenol,ATP2C1
+MOL000254,eugenol,TRPC3
+MOL000254,eugenol,TRPV3
+MOL000254,eugenol,ENOX2
+MOL002560,chrysin,PTGS1
+MOL002560,chrysin,AR
+MOL002560,chrysin,PTGS2
+MOL002560,chrysin,PDE3A
+MOL002560,chrysin,SLC6A4
+MOL002560,chrysin,GABRA1
+MOL002560,chrysin,DPP4
+MOL002560,chrysin,HSP90AA1 / HSP90AB1
+MOL002560,chrysin,PIK3CG
+MOL002560,chrysin,MAOB
+MOL002560,chrysin,PRKACA
+MOL002560,chrysin,PKIA
+MOL002560,chrysin,F2
+MOL002560,chrysin,CDKN1A
+MOL002560,chrysin,TGFB1
+MOL002560,chrysin,IL4
+MOL002560,chrysin,CYP19A1
+MOL002560,chrysin,IL13
+MOL002560,chrysin,MS4A2
+MOL002573,β-patchoulene,CHRM3
+MOL002573,β-patchoulene,PTGS2
+MOL002573,β-patchoulene,GABRA1
+MOL002573,β-patchoulene,NCOA2
+MOL002573,β-patchoulene,GABRA2
+MOL002573,β-patchoulene,GABRA6
+MOL002714,baicalein,PTGS1
+MOL002714,baicalein,AR
+MOL002714,baicalein,PTGS2
+MOL002714,baicalein,HSP90AA1 / HSP90AB1
+MOL002714,baicalein,PRKACA
+MOL002714,baicalein,DPP4
+MOL002714,baicalein,PIK3CG
+MOL002714,baicalein,PDE3A
+MOL002714,baicalein,PRSS1
+MOL002714,baicalein,NCOA2
+MOL002714,baicalein,NCOA1
+MOL002714,baicalein,CALM1
+MOL002714,baicalein,RELA
+MOL002714,baicalein,AKT1
+MOL002714,baicalein,VEGFA
+MOL002714,baicalein,BCL2
+MOL002714,baicalein,FOS
+MOL002714,baicalein,BAX
+MOL002714,baicalein,MMP9
+MOL002714,baicalein,CASP3
+MOL002714,baicalein,TP53
+MOL002714,baicalein,HIF1A
+MOL002714,baicalein,FOSL1
+MOL002714,baicalein,FOSL2
+MOL002714,baicalein,CDK1
+MOL002714,baicalein,CCNB1
+MOL002714,baicalein,MPO
+MOL002714,baicalein,AHR
+MOL002714,baicalein,IGF2
+MOL002714,baicalein,CYCS
+MOL002714,baicalein,ALOX12
+MOL002714,baicalein,NFATC1
+MOL002714,baicalein,TDRD7
+MOL002714,baicalein,EGLN1
+MOL002714,baicalein,NOX5
+MOL002714,baicalein,FABP5
+MOL002714,baicalein,APOD
+MOL002737,scutellarein,PTGS1
+MOL002737,scutellarein,AR
+MOL002737,scutellarein,PTGS2
+MOL002737,scutellarein,HSP90AA1 / HSP90AB1
+MOL002737,scutellarein,PIK3CG
+MOL002737,scutellarein,PRKACA
+MOL002737,scutellarein,PRSS1
+MOL002737,scutellarein,NCOA2
+MOL002737,scutellarein,VEGFA
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",NOS2
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",F2
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",AR
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",F10
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",PTGS2
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",PTPN1
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",TOP2A
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",DPP4
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",PYGM
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",HSP90AA1 / HSP90AB1
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",PRSS1
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",NCOA2
+MOL002909,"5,7,2,5-tetrahydroxy-8,6-dimethoxyflavone",KCNMA1
+MOL002910,Carthamidin,PTGS1
+MOL002910,Carthamidin,PTGS2
+MOL002910,Carthamidin,HSP90AA1 / HSP90AB1
+MOL002910,Carthamidin,PRKACA
+MOL002912,Dihydrobaicalin,F10
+MOL002913,Dihydrobaicalin_qt,PTGS1
+MOL002913,Dihydrobaicalin_qt,PTGS2
+MOL002913,Dihydrobaicalin_qt,HSP90AA1 / HSP90AB1
+MOL002913,Dihydrobaicalin_qt,PRKACA
+MOL002914,Eriodyctiol (flavanone),PTGS1
+MOL002914,Eriodyctiol (flavanone),PTGS2
+MOL002914,Eriodyctiol (flavanone),HSP90AA1 / HSP90AB1
+MOL002914,Eriodyctiol (flavanone),PRKACA
+MOL002914,Eriodyctiol (flavanone),NCOA2
+MOL002914,Eriodyctiol (flavanone),PIK3CG
+MOL002914,Eriodyctiol (flavanone),PYGM
+MOL002914,Eriodyctiol (flavanone),CALM1
+MOL002915,Salvigenin,NOS2
+MOL002915,Salvigenin,PTGS1
+MOL002915,Salvigenin,F2
+MOL002915,Salvigenin,SCN5A
+MOL002915,Salvigenin,F10
+MOL002915,Salvigenin,PTGS2
+MOL002915,Salvigenin,NOS3
+MOL002915,Salvigenin,RXRA
+MOL002915,Salvigenin,ACHE
+MOL002915,Salvigenin,ADRA1B
+MOL002915,Salvigenin,ADRB2
+MOL002915,Salvigenin,DPP4
+MOL002915,Salvigenin,HSP90AA1 / HSP90AB1
+MOL002915,Salvigenin,IGHG1
+MOL002915,Salvigenin,PRSS1
+MOL002915,Salvigenin,NCOA2
+MOL002915,Salvigenin,CALM1
+MOL002915,Salvigenin,F7
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",NOS2
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",PTGS1
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",AR
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",PPARG
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",PTGS2
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",HSP90AA1 / HSP90AB1
+MOL002916,"2-(2,6-dihydroxyphenyl)-3,5,7-trihydroxy-chromone",PIK3CG
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",NOS2
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",PTGS1
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",AR
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",SCN5A
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",F10
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",PTGS2
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",TOP2A
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",ESR2
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",DPP4
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",HSP90AA1 / HSP90AB1
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",CDK2
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",PIK3CG
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",CHEK1
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",PRSS1
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",NCOA2
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",CALM1
+MOL002917,"5,2',6'-Trihydroxy-7,8-dimethoxyflavone",KCNMA1
+MOL002918,Ganhuangenin,NOS2
+MOL002918,Ganhuangenin,F2
+MOL002918,Ganhuangenin,AR
+MOL002918,Ganhuangenin,F10
+MOL002918,Ganhuangenin,PTGS2
+MOL002918,Ganhuangenin,F7
+MOL002918,Ganhuangenin,PTPN1
+MOL002918,Ganhuangenin,TOP2A
+MOL002918,Ganhuangenin,ESR2
+MOL002918,Ganhuangenin,DPP4
+MOL002918,Ganhuangenin,PRSS1
+MOL002918,Ganhuangenin,KCNMA1
+MOL002919,Viscidulin III,NOS2
+MOL002919,Viscidulin III,F2
+MOL002919,Viscidulin III,AR
+MOL002919,Viscidulin III,SCN5A
+MOL002919,Viscidulin III,F10
+MOL002919,Viscidulin III,PTGS2
+MOL002919,Viscidulin III,F7
+MOL002919,Viscidulin III,TOP2A
+MOL002919,Viscidulin III,DPP4
+MOL002919,Viscidulin III,HSP90AA1 / HSP90AB1
+MOL002919,Viscidulin III,PRSS1
+MOL002919,Viscidulin III,NCOA2
+MOL002919,Viscidulin III,CALM1
+MOL000169,alpha-Guaiene,PTGS1
+MOL000169,alpha-Guaiene,CHRM1
+MOL000169,alpha-Guaiene,PTGS2
+MOL000169,alpha-Guaiene,GABRA2
+MOL000169,alpha-Guaiene,RXRA
+MOL000169,alpha-Guaiene,SLC6A2
+MOL000169,alpha-Guaiene,GABRA1
+MOL000169,alpha-Guaiene,MAOB
+MOL000169,alpha-Guaiene,NCOA2
+MOL000169,alpha-Guaiene,GABRA6
+MOL000169,alpha-Guaiene,CHRM3
+MOL000169,alpha-Guaiene,PDE3A
+MOL000169,alpha-Guaiene,HTR2A
+MOL000169,alpha-Guaiene,ADRA1B
+MOL000169,alpha-Guaiene,ADRB2
+MOL000169,alpha-Guaiene,SLC6A4
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,PTGS1
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRB1
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,PTGS2
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRA2A
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRA2C
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,SLC6A2
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRA1A
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRA2B
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,SLC6A3
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,ADRB2
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,BLA (Bacterial TCMSP hit)
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,MAOB
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,MAOA
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,LYZ
+MOL002922,5-(2-hydroxyethyl)-2-methoxyphenol,CHRM1
+MOL002923,darendoside B,F2
+MOL002924,darendoside B_qt,NOS2
+MOL002924,darendoside B_qt,F2
+MOL002924,darendoside B_qt,ESR1
+MOL002924,darendoside B_qt,PTGS2
+MOL002924,darendoside B_qt,DPP4
+MOL002924,darendoside B_qt,CDK2
+MOL002924,darendoside B_qt,BLA (Bacterial TCMSP hit)
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",PTGS1
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",AR
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",PTGS2
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",DPP4
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",HSP90AA1 / HSP90AB1
+MOL002925,"5,7,2',6'-Tetrahydroxyflavone",PRKACA
+MOL002927,Skullcapflavone II,NOS2
+MOL002927,Skullcapflavone II,PTGS1
+MOL002927,Skullcapflavone II,F2
+MOL002927,Skullcapflavone II,KCNH2
+MOL002927,Skullcapflavone II,AR
+MOL002927,Skullcapflavone II,SCN5A
+MOL002927,Skullcapflavone II,F10
+MOL002927,Skullcapflavone II,PTGS2
+MOL002927,Skullcapflavone II,NOS3
+MOL002927,Skullcapflavone II,F7
+MOL002927,Skullcapflavone II,KDR
+MOL002927,Skullcapflavone II,CACNA2D1
+MOL002927,Skullcapflavone II,TOP2A
+MOL002927,Skullcapflavone II,DPP4
+MOL002927,Skullcapflavone II,HSP90AA1 / HSP90AB1
+MOL002927,Skullcapflavone II,IGHG1
+MOL002927,Skullcapflavone II,PRSS1
+MOL002927,Skullcapflavone II,NCOA2
+MOL002927,Skullcapflavone II,NCOA1
+MOL002927,Skullcapflavone II,KCNMA1
+MOL002927,Skullcapflavone II,CALM1
+MOL002928,oroxylin a,NOS2
+MOL002928,oroxylin a,PTGS1
+MOL002928,oroxylin a,AR
+MOL002928,oroxylin a,SCN5A
+MOL002928,oroxylin a,PTGS2
+MOL002928,oroxylin a,RXRA
+MOL002928,oroxylin a,PDE3A
+MOL002928,oroxylin a,ADRA1B
+MOL002928,oroxylin a,ADRB2
+MOL002928,oroxylin a,DPP4
+MOL002928,oroxylin a,HSP90AA1 / HSP90AB1
+MOL002928,oroxylin a,PIK3CG
+MOL002928,oroxylin a,PRKACA
+MOL002928,oroxylin a,PRSS1
+MOL002928,oroxylin a,NCOA1
+MOL002928,oroxylin a,CALM1
+MOL002928,oroxylin a,NCOA2
+MOL002928,oroxylin a,PKIA
+MOL002928,oroxylin a,BCL2
+MOL002928,oroxylin a,IL6
+MOL002928,oroxylin a,CASP3
+MOL002928,oroxylin a,CDK1
+MOL002928,oroxylin a,CYP1A2
+MOL002928,oroxylin a,CCNB1
+MOL002928,oroxylin a,CDK7
+MOL002928,oroxylin a,CYP2C9
+MOL002930,Tyrosol,ADRB1
+MOL002930,Tyrosol,SLC6A2
+MOL002930,Tyrosol,ADRA1A
+MOL002930,Tyrosol,SLC6A3
+MOL002930,Tyrosol,BLA (Bacterial TCMSP hit)
+MOL002930,Tyrosol,MAOA
+MOL002930,Tyrosol,ADH1C
+MOL002930,Tyrosol,LYZ
+MOL002930,Tyrosol,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL002930,Tyrosol,cobT
+MOL002930,Tyrosol,PRSS3
+MOL002930,Tyrosol,ADRA1B
+MOL002930,Tyrosol,MAOB
+MOL002930,Tyrosol,TOP2A
+MOL002931,scutellarin,F10
+MOL002931,scutellarin,PTPN1
+MOL002931,scutellarin,BCL2L1
+MOL002931,scutellarin,AHSA1
+MOL002931,scutellarin,CASP3
+MOL002931,scutellarin,PRKCG
+MOL002932,Panicolin,NOS2
+MOL002932,Panicolin,PTGS1
+MOL002932,Panicolin,AR
+MOL002932,Panicolin,SCN5A
+MOL002932,Panicolin,PTGS2
+MOL002932,Panicolin,ESR2
+MOL002932,Panicolin,DPP4
+MOL002932,Panicolin,HSP90AA1 / HSP90AB1
+MOL002932,Panicolin,CDK2
+MOL002932,Panicolin,CHEK1
+MOL002932,Panicolin,PRSS1
+MOL002932,Panicolin,CALM1
+MOL002932,Panicolin,PIK3CG
+MOL002932,Panicolin,NCOA1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",NOS2
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PTGS1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",ESR1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",AR
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PPARG
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PTGS2
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",DPP4
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PYGM
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",MAPK14
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",GSK3B
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",HSP90AA1 / HSP90AB1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",CDK2
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PIK3CG
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",CHEK1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PRSS1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",NCOA2
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",CALM1
+MOL002933,"5,7,4'-Trihydroxy-8-methoxyflavone",PRKACA
+MOL002934,NEOBAICALEIN,NOS2
+MOL002934,NEOBAICALEIN,F2
+MOL002934,NEOBAICALEIN,KCNH2
+MOL002934,NEOBAICALEIN,ESR1
+MOL002934,NEOBAICALEIN,AR
+MOL002934,NEOBAICALEIN,SCN5A
+MOL002934,NEOBAICALEIN,PPARG
+MOL002934,NEOBAICALEIN,F10
+MOL002934,NEOBAICALEIN,PTGS2
+MOL002934,NEOBAICALEIN,F7
+MOL002934,NEOBAICALEIN,PTPN1
+MOL002934,NEOBAICALEIN,TOP2A
+MOL002934,NEOBAICALEIN,ESR2
+MOL002934,NEOBAICALEIN,DPP4
+MOL002934,NEOBAICALEIN,PYGM
+MOL002934,NEOBAICALEIN,GSK3B
+MOL002934,NEOBAICALEIN,HSP90AA1 / HSP90AB1
+MOL002934,NEOBAICALEIN,CHEK1
+MOL002934,NEOBAICALEIN,PRSS1
+MOL002934,NEOBAICALEIN,NCOA2
+MOL002934,NEOBAICALEIN,KCNMA1
+MOL002934,NEOBAICALEIN,CALM1
+MOL002935,Baicalin,F10
+MOL002935,Baicalin,TOP2A
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",NOS2
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PTGS1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",ESR1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",AR
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",SCN5A
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PPARG
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PTGS2
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",F7
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",ESR2
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",DPP4
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PPARD
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",MAPK14
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",GSK3B
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",HSP90AA1 / HSP90AB1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",CDK2
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",CHEK1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PRKACA
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",PRSS1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",NCOA2
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",NCOA1
+MOL002936,"5,8-Dihydroxy-6,7-dimethoxyflavone",CALM1
+MOL002937,DIHYDROOROXYLIN,PTGS1
+MOL002937,DIHYDROOROXYLIN,SCN5A
+MOL002937,DIHYDROOROXYLIN,PTGS2
+MOL002937,DIHYDROOROXYLIN,RXRA
+MOL002937,DIHYDROOROXYLIN,PDE3A
+MOL002937,DIHYDROOROXYLIN,ADRA1B
+MOL002937,DIHYDROOROXYLIN,ADRB2
+MOL002937,DIHYDROOROXYLIN,HSP90AA1 / HSP90AB1
+MOL002937,DIHYDROOROXYLIN,PRKACA
+MOL002937,DIHYDROOROXYLIN,CALM1
+MOL002937,DIHYDROOROXYLIN,NCOA1
+MOL000357,Sitogluside,PGR
+MOL000357,Sitogluside,PTGS1
+MOL000357,Sitogluside,CHRM3
+MOL000357,Sitogluside,KCNH2
+MOL000357,Sitogluside,CHRM1
+MOL000357,Sitogluside,SCN5A
+MOL000357,Sitogluside,F10
+MOL000357,Sitogluside,PTGS2
+MOL000357,Sitogluside,HTR3A
+MOL000357,Sitogluside,RXRA
+MOL000357,Sitogluside,PDE3A
+MOL000357,Sitogluside,ADRA1B
+MOL000357,Sitogluside,ADRB2
+MOL000357,Sitogluside,ADRA1D
+MOL000357,Sitogluside,HSP90AA1 / HSP90AB1
+MOL000357,Sitogluside,NCOA2
+MOL000357,Sitogluside,CALM1
+MOL000358,beta-sitosterol,PGR
+MOL000358,beta-sitosterol,NCOA2
+MOL000358,beta-sitosterol,PTGS1
+MOL000358,beta-sitosterol,PTGS2
+MOL000358,beta-sitosterol,HSP90AA1 / HSP90AB1
+MOL000358,beta-sitosterol,PIK3CG
+MOL000358,beta-sitosterol,KCNH2
+MOL000358,beta-sitosterol,PRKACA
+MOL000358,beta-sitosterol,DRD1
+MOL000358,beta-sitosterol,CHRM3
+MOL000358,beta-sitosterol,CHRM1
+MOL000358,beta-sitosterol,SCN5A
+MOL000358,beta-sitosterol,GABRA2
+MOL000358,beta-sitosterol,CHRM4
+MOL000358,beta-sitosterol,PDE3A
+MOL000358,beta-sitosterol,HTR2A
+MOL000358,beta-sitosterol,GABRA5
+MOL000358,beta-sitosterol,ADRA1A
+MOL000358,beta-sitosterol,GABRA3
+MOL000358,beta-sitosterol,CHRM2
+MOL000358,beta-sitosterol,ADRA1B
+MOL000358,beta-sitosterol,ADRB2
+MOL000358,beta-sitosterol,CHRNA2
+MOL000358,beta-sitosterol,SLC6A4
+MOL000358,beta-sitosterol,OPRM1
+MOL000358,beta-sitosterol,GABRA1
+MOL000358,beta-sitosterol,CHRNA7
+MOL000358,beta-sitosterol,CYP101A1(camC)
+MOL000358,beta-sitosterol,BCL2
+MOL000358,beta-sitosterol,BAX
+MOL000358,beta-sitosterol,CASP9
+MOL000358,beta-sitosterol,JUN
+MOL000358,beta-sitosterol,CASP3
+MOL000358,beta-sitosterol,CASP8
+MOL000358,beta-sitosterol,PRKCA
+MOL000358,beta-sitosterol,TGFB1
+MOL000358,beta-sitosterol,PON1
+MOL000358,beta-sitosterol,MAP2
+MOL000359,sitosterol,PGR
+MOL000359,sitosterol,NCOA2
+MOL000359,sitosterol,NR3C2
+MOL000396,(+)-Syringaresinol,KCNH2
+MOL000396,(+)-Syringaresinol,SCN5A
+MOL000396,(+)-Syringaresinol,F10
+MOL000396,(+)-Syringaresinol,PTGS2
+MOL000396,(+)-Syringaresinol,TOP2A
+MOL000396,(+)-Syringaresinol,NCOA2
+MOL000396,(+)-Syringaresinol,CALM1
+MOL000396,(+)-Syringaresinol,HSP90AA1 / HSP90AB1
+MOL000458,campesterol,PGR
+MOL000525,Norwogonin,NOS2
+MOL000525,Norwogonin,PTGS1
+MOL000525,Norwogonin,AR
+MOL000525,Norwogonin,PPARG
+MOL000525,Norwogonin,PTGS2
+MOL000525,Norwogonin,PDE3A
+MOL000525,Norwogonin,DPP4
+MOL000525,Norwogonin,HSP90AA1 / HSP90AB1
+MOL000525,Norwogonin,CDK2
+MOL000525,Norwogonin,PIK3CG
+MOL000525,Norwogonin,CHEK1
+MOL000525,Norwogonin,PRKACA
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",NOS2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",PTGS1
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",F2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",KCNH2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",AR
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",SCN5A
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",F10
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",PTGS2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",NOS3
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",F7
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",TOP2A
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",ESR2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",DPP4
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",PPARD
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",HSP90AA1 / HSP90AB1
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",PRSS1
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",NCOA2
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",CALM1
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",KDR
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",NCOA1
+MOL000552,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",KCNMA1
+MOL000612,(-)-alpha-cedrene,CHRM3
+MOL000612,(-)-alpha-cedrene,PTGS2
+MOL000612,(-)-alpha-cedrene,GABRA2
+MOL000612,(-)-alpha-cedrene,RXRA
+MOL000612,(-)-alpha-cedrene,GABRA1
+MOL000612,(-)-alpha-cedrene,NCOA2
+MOL000612,(-)-alpha-cedrene,CHRM1
+MOL000612,(-)-alpha-cedrene,ADH1B
+MOL000612,(-)-alpha-cedrene,ADH1C
+MOL000007,Cosmetin,PTGS2
+MOL000007,Cosmetin,CALM1
+MOL000709,(S)-Matsutake alcohol,ADH1C
+MOL000709,(S)-Matsutake alcohol,PRSS3
+MOL000715,l-Menthone,GABRA2
+MOL000715,l-Menthone,GABRA5
+MOL000715,l-Menthone,CHRM2
+MOL000715,l-Menthone,GABRA1
+MOL000715,l-Menthone,CYP101A1(camC)
+MOL000715,l-Menthone,IGHG1
+MOL000715,l-Menthone,BCHE
+MOL000715,l-Menthone,CHRM3
+MOL000715,l-Menthone,CHRM1
+MOL000715,l-Menthone,GABRA3
+MOL000715,l-Menthone,ADRA1B
+MOL000715,l-Menthone,CHRNA2
+MOL000008,apigenin,PTGS1
+MOL000008,apigenin,AR
+MOL000008,apigenin,PTGS2
+MOL000008,apigenin,HSP90AA1 / HSP90AB1
+MOL000008,apigenin,PRSS1
+MOL000008,apigenin,NCOA2
+MOL000008,apigenin,PIK3CG
+MOL000008,apigenin,PRKACA
+MOL000008,apigenin,SCN5A
+MOL000008,apigenin,F10
+MOL000008,apigenin,F7
+MOL000008,apigenin,TOP2A
+MOL000008,apigenin,DPP4
+MOL000008,apigenin,CALM1
+MOL000008,apigenin,RELA
+MOL000008,apigenin,AKT1
+MOL000008,apigenin,VEGFA
+MOL000008,apigenin,CCND1
+MOL000008,apigenin,BCL2
+MOL000008,apigenin,BCL2L1
+MOL000008,apigenin,FOS
+MOL000008,apigenin,CDKN1A
+MOL000008,apigenin,EIF6
+MOL000008,apigenin,BAX
+MOL000008,apigenin,CASP9
+MOL000008,apigenin,PLAU
+MOL000008,apigenin,MMP9
+MOL000008,apigenin,RB1
+MOL000008,apigenin,CDK4
+MOL000008,apigenin,TNF
+MOL000008,apigenin,JUN
+MOL000008,apigenin,CDK6
+MOL000008,apigenin,CDKN2A
+MOL000008,apigenin,EEF1E1
+MOL000008,apigenin,AHSA1
+MOL000008,apigenin,CASP3
+MOL000008,apigenin,TP53
+MOL000008,apigenin,NFKBIA
+MOL000008,apigenin,ODC1
+MOL000008,apigenin,MDM2
+MOL000008,apigenin,BAD
+MOL000008,apigenin,MMP1
+MOL000008,apigenin,HIF1A
+MOL000008,apigenin,IGF1R
+MOL000008,apigenin,RUNX1T1
+MOL000008,apigenin,HERC5
+MOL000008,apigenin,CDK1
+MOL000008,apigenin,ACACA
+MOL000008,apigenin,HMOX1
+MOL000008,apigenin,ICAM1
+MOL000008,apigenin,MCL1
+MOL000008,apigenin,CCND2
+MOL000008,apigenin,IL2
+MOL000008,apigenin,CCNB1
+MOL000008,apigenin,SERPINE1
+MOL000008,apigenin,IFNG
+MOL000008,apigenin,IL4
+MOL000008,apigenin,IKBKG
+MOL000008,apigenin,CYP19A1
+MOL000008,apigenin,XIAP
+MOL000008,apigenin,PSMD3
+MOL000008,apigenin,SLC2A4
+MOL000008,apigenin,INSR
+MOL000008,apigenin,CD40LG
+MOL000008,apigenin,CYCS
+MOL000008,apigenin,CFLAR
+MOL000008,apigenin,AAGAB
+MOL000008,apigenin,INS
+MOL000008,apigenin,FCER2
+MOL000008,apigenin,IL13
+MOL000008,apigenin,MS4A2
+MOL000008,apigenin,ALPI
+MOL000008,apigenin,PSME3
+MOL000008,apigenin,G6PC1
+MOL000008,apigenin,APC
+MOL000008,apigenin,TRPM2
+MOL000008,apigenin,AKR1C3
+MOL000008,apigenin,SLC5A5
+MOL000008,apigenin,FXYD2
+MOL000008,apigenin,ALG5
+MOL003127,Germacrene D,PTGS1
+MOL003127,Germacrene D,PTGS2
+MOL003127,Germacrene D,SLC6A2
+MOL003127,Germacrene D,NCOA2
+MOL000035,beta-Selinene,PTGS1
+MOL000035,beta-Selinene,CHRM3
+MOL000035,beta-Selinene,CHRM1
+MOL000035,beta-Selinene,PTGS2
+MOL000035,beta-Selinene,GABRA2
+MOL000035,beta-Selinene,RXRA
+MOL000035,beta-Selinene,SLC6A2
+MOL000035,beta-Selinene,GABRA3
+MOL000035,beta-Selinene,CHRM2
+MOL000035,beta-Selinene,ADRA1B
+MOL000035,beta-Selinene,GABRA1
+MOL000035,beta-Selinene,NCOA2
+MOL000035,beta-Selinene,GABRA6
+MOL000069,palmitic acid,CTSD
+MOL000069,palmitic acid,ADH1B
+MOL000069,palmitic acid,ADH1C
+MOL000069,palmitic acid,PTGS1
+MOL000069,palmitic acid,PTGS2
+MOL000069,palmitic acid,RHO
+MOL000069,palmitic acid,IGHG1
+MOL000069,palmitic acid,fhuA (Bacterial TCMSP hit)
+MOL000069,palmitic acid,NCOA2
+MOL000069,palmitic acid,BCL2
+MOL000069,palmitic acid,IL10
+MOL000069,palmitic acid,TNF
+MOL000069,palmitic acid,COL1A1
+MOL000069,palmitic acid,PTEN
+MOL000069,palmitic acid,SMA3 (Bacterial/Non-human TCMSP hit)
+MOL000069,palmitic acid,SLC22A5
+MOL000069,palmitic acid,PCYT1A
+MOL000073,ent-Epicatechin,PTGS1
+MOL000073,ent-Epicatechin,ESR1
+MOL000073,ent-Epicatechin,PTGS2
+MOL000073,ent-Epicatechin,HSP90AA1 / HSP90AB1
+MOL000073,ent-Epicatechin,BLA (Bacterial TCMSP hit)
+MOL000073,ent-Epicatechin,PRKACA
+MOL000131,EIC,PTGS1
+MOL000131,EIC,PTGS2
+MOL000131,EIC,RXRA
+MOL000131,EIC,NCOA2
+MOL000131,EIC,LYZ
+MOL000131,EIC,cobT
+MOL000131,EIC,SLC6A2
+MOL000131,EIC,IGHG1
+MOL000131,EIC,GABRA2
+MOL000131,EIC,GABRA1
+MOL000131,EIC,CYP101A1(camC)
+MOL000131,EIC,TRPV1
+MOL000131,EIC,CHRM1
+MOL000131,EIC,CHRM2
+MOL000131,EIC,GABRA6
+MOL000303,caprylic acid,PLA2G1B
+MOL000303,caprylic acid,ADH1B
+MOL000303,caprylic acid,ADH1C
+MOL000303,caprylic acid,ACOT1
+MOL000303,caprylic acid,PRSS3
+MOL000303,caprylic acid,CXCL8
+MOL000303,caprylic acid,PPARA
+MOL000303,caprylic acid,EP300
+MOL000303,caprylic acid,FABP1
+MOL000303,caprylic acid,RBP2
+MOL000449,Stigmasterol,PGR
+MOL000449,Stigmasterol,NR3C2
+MOL000449,Stigmasterol,NCOA2
+MOL000449,Stigmasterol,ADH1C
+MOL000449,Stigmasterol,IGHG1
+MOL000449,Stigmasterol,RXRA
+MOL000449,Stigmasterol,NCOA1
+MOL000449,Stigmasterol,PTGS1
+MOL000449,Stigmasterol,PTGS2
+MOL000449,Stigmasterol,ADRA2A
+MOL000449,Stigmasterol,SLC6A2
+MOL000449,Stigmasterol,SLC6A3
+MOL000449,Stigmasterol,ADRB2
+MOL000449,Stigmasterol,AKR1B1
+MOL000449,Stigmasterol,PLAU
+MOL000449,Stigmasterol,LTA4H
+MOL000449,Stigmasterol,MAOB
+MOL000449,Stigmasterol,MAOA
+MOL000449,Stigmasterol,PRKACA
+MOL000449,Stigmasterol,CTRB1
+MOL000449,Stigmasterol,CHRM3
+MOL000449,Stigmasterol,CHRM1
+MOL000449,Stigmasterol,ADRB1
+MOL000449,Stigmasterol,SCN5A
+MOL000449,Stigmasterol,HTR2A
+MOL000449,Stigmasterol,ADRA1A
+MOL000449,Stigmasterol,GABRA3
+MOL000449,Stigmasterol,CHRM2
+MOL000449,Stigmasterol,ADRA1B
+MOL000449,Stigmasterol,GABRA1
+MOL000449,Stigmasterol,CHRNA7
+MOL000669,(S)-camphor,CYP101A1(camC)
+MOL000669,(S)-camphor,GABRA2
+MOL000669,(S)-camphor,GABRA1
+MOL000676,DBP,CHRM3
+MOL000676,DBP,CHRM1
+MOL000676,DBP,SLC6A2
+MOL000676,DBP,SLC6A3
+MOL000676,DBP,ADRB2
+MOL000676,DBP,SLC6A4
+MOL000676,DBP,PTGS1
+MOL000676,DBP,PTGS2
+MOL000676,DBP,NOS3
+MOL000676,DBP,RXRA
+MOL000676,DBP,GSK3B
+MOL000676,DBP,HSP90AA1 / HSP90AB1
+MOL000676,DBP,BLA (Bacterial TCMSP hit)
+MOL000676,DBP,PRKACA
+MOL000676,DBP,PDE3A
+MOL000676,DBP,ADRA1A
+MOL000676,DBP,CHRM2
+MOL000676,DBP,IGHG1
+MOL000676,DBP,HTR2A
+MOL000676,DBP,GABRA1
+MOL000676,DBP,CHRNA7
+MOL000676,DBP,GABRA6
+MOL000708,WLN: VHR,ADH1B
+MOL000708,WLN: VHR,ADH1C
+MOL000708,WLN: VHR,ADH1A
+MOL000708,WLN: VHR,LYZ
+MOL000708,WLN: VHR,cobT
+MOL000708,WLN: VHR,PRSS3
+MOL000714,Hyacinthin,ADH1B
+MOL000714,Hyacinthin,ADH1C
+MOL000714,Hyacinthin,ADH1A
+MOL000714,Hyacinthin,cobT
+MOL000714,Hyacinthin,PRSS3
+MOL000714,Hyacinthin,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL000717,d-isomenthone,GABRA2
+MOL000717,d-isomenthone,CHRM2
+MOL000717,d-isomenthone,GABRA1
+MOL000717,d-isomenthone,BCHE
+MOL000717,d-isomenthone,CYP101A1(camC)
+MOL000717,d-isomenthone,IGHG1
+MOL000771,p-coumaric acid,PTGS1
+MOL000771,p-coumaric acid,PTGS2
+MOL000771,p-coumaric acid,MAOB
+MOL000771,p-coumaric acid,MAOA
+MOL000771,p-coumaric acid,LYZ
+MOL000771,p-coumaric acid,CTRB1
+MOL000771,p-coumaric acid,PLA2G2E
+MOL000771,p-coumaric acid,TLN (Bacterial TCMSP hit)
+MOL000771,p-coumaric acid,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL000771,p-coumaric acid,NOS3
+MOL000771,p-coumaric acid,TYR
+MOL000771,p-coumaric acid,PPO1 (Plant TCMSP hit)
+MOL000771,p-coumaric acid,CCL16
+MOL000789,jatrorrizine,NOS2
+MOL000789,jatrorrizine,PTGS1
+MOL000789,jatrorrizine,KCNH2
+MOL000789,jatrorrizine,ESR1
+MOL000789,jatrorrizine,AR
+MOL000789,jatrorrizine,SCN5A
+MOL000789,jatrorrizine,PTGS2
+MOL000789,jatrorrizine,NOS3
+MOL000789,jatrorrizine,RXRA
+MOL000789,jatrorrizine,ESR2
+MOL000789,jatrorrizine,HSP90AA1 / HSP90AB1
+MOL000789,jatrorrizine,CDK2
+MOL000789,jatrorrizine,PRSS1
+MOL000789,jatrorrizine,PIM1
+MOL000789,jatrorrizine,CCNA2
+MOL000789,jatrorrizine,NCOA2
+MOL000789,jatrorrizine,CALM1
+MOL000789,jatrorrizine,KCNMA1
+MOL000789,jatrorrizine,TOP2A
+MOL000789,jatrorrizine,PRKACA
+MOL000860,stearic acid,PTGS1
+MOL000860,stearic acid,PTGS2
+MOL000860,stearic acid,RXRA
+MOL000860,stearic acid,NCOA2
+MOL000860,stearic acid,IGHG1
+MOL000860,stearic acid,SP1
+MOL000860,stearic acid,ENPP7
+MOL000870,HEXATRIACONTANE,PTGS1
+MOL000870,HEXATRIACONTANE,PTGS2
+MOL000870,HEXATRIACONTANE,HSP90AA1 / HSP90AB1
+MOL000870,HEXATRIACONTANE,PIK3CG
+MOL000870,HEXATRIACONTANE,PRKACA
+MOL000870,HEXATRIACONTANE,NCOA2
+MOL000879,methyl palmitate,PTGS1
+MOL000879,methyl palmitate,NCOA2
+MOL000879,methyl palmitate,IGHG1
+MOL000879,methyl palmitate,RELA
+MOL000879,methyl palmitate,IL10
+MOL000879,methyl palmitate,TNF
+MOL000879,methyl palmitate,IL6
+MOL000879,methyl palmitate,PTGS2
+MOL000879,methyl palmitate,PTGER3
+MOL001132,longipinene,CHRM3
+MOL001132,longipinene,PTGS2
+MOL001132,longipinene,GABRA1
+MOL001386,Methyl laurate,IGHG1
+MOL001386,Methyl laurate,NCOA2
+MOL001393,myristic acid,PTGS1
+MOL001393,myristic acid,PTGS2
+MOL001393,myristic acid,BCHE
+MOL001393,myristic acid,PLA2G1B
+MOL001393,myristic acid,VP1 (Viral TCMSP hit)
+MOL001393,myristic acid,IGHG1
+MOL001393,myristic acid,fhuA (Bacterial TCMSP hit)
+MOL001393,myristic acid,fabH (Bacterial TCMSP hit)
+MOL001393,myristic acid,NCOA2
+MOL001393,myristic acid,NCOA1
+MOL001393,myristic acid,LCAT
+MOL001458,coptisine,NOS2
+MOL001458,coptisine,PTGS1
+MOL001458,coptisine,KCNH2
+MOL001458,coptisine,ESR1
+MOL001458,coptisine,AR
+MOL001458,coptisine,SCN5A
+MOL001458,coptisine,PTGS2
+MOL001458,coptisine,NOS3
+MOL001458,coptisine,PRSS1
+MOL001490,"bis[(2S)-2-ethylhexyl] benzene-1,2-dicarboxylate",SCN5A
+MOL001578,Hypnon,ADH1B
+MOL001578,Hypnon,ADH1C
+MOL001578,Hypnon,ADH1A
+MOL001578,Hypnon,LYZ
+MOL001578,Hypnon,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL001578,Hypnon,cobT
+MOL001578,Hypnon,PRSS3
+MOL001818,Methyl palmitelaidate,PTGS1
+MOL001818,Methyl palmitelaidate,RXRA
+MOL001818,Methyl palmitelaidate,NCOA2
+MOL001818,Methyl palmitelaidate,PTGS2
+MOL001889,Methyl linolelaidate,NCOA2
+MOL001889,Methyl linolelaidate,PTGS1
+MOL001889,Methyl linolelaidate,PTGS2
+MOL001889,Methyl linolelaidate,RXRA
+MOL001972,Pulegone,GABRA2
+MOL001972,Pulegone,GABRA1
+MOL001972,Pulegone,CYP101A1(camC)
+MOL001972,Pulegone,GABRA5
+MOL001972,Pulegone,CHRM2
+MOL001972,Pulegone,CHRM1
+MOL001972,Pulegone,SLC6A2
+MOL001972,Pulegone,GABRA6
+MOL002046,hexanoic acid,ADH1C
+MOL002046,hexanoic acid,PRSS3
+MOL002046,hexanoic acid,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL002046,hexanoic acid,ISYNA1
+MOL002202,tetramethylpyrazine,VEGFA
+MOL002202,tetramethylpyrazine,HIF1A
+MOL002202,tetramethylpyrazine,TBXAS1
+MOL002202,tetramethylpyrazine,ITGA2B
+MOL002819,catalpol,DPP4
+MOL002819,catalpol,BCL2
+MOL002819,catalpol,CASP3
+MOL002819,catalpol,SOD1
+MOL002879,Diop,SCN5A
+MOL002879,Diop,ADRB2
+MOL002879,Diop,CHRM3
+MOL002897,epiberberine,NOS2
+MOL002897,epiberberine,KCNH2
+MOL002897,epiberberine,ESR1
+MOL002897,epiberberine,AR
+MOL002897,epiberberine,PTGS2
+MOL002897,epiberberine,NOS3
+MOL002897,epiberberine,RXRA
+MOL002897,epiberberine,PRKACA
+MOL002897,epiberberine,PRSS1
+MOL002897,epiberberine,NCOA2
+MOL002897,epiberberine,PDE10A
+MOL003050,nonanoic acid,PLA2G1B
+MOL003050,nonanoic acid,ADH1B
+MOL003050,nonanoic acid,ADH1C
+MOL003050,nonanoic acid,CTSD
+MOL003050,nonanoic acid,ISYNA1
+MOL003568,Patchoulene,CHRM3
+MOL003568,Patchoulene,CHRM1
+MOL003568,Patchoulene,GABRA2
+MOL003568,Patchoulene,CHRM2
+MOL003568,Patchoulene,GABRA1
+MOL004464,MEHQ,ADH1B
+MOL004464,MEHQ,ADH1C
+MOL004464,MEHQ,LYZ
+MOL004464,MEHQ,NPR1 (Bacillolysin - bacterial TCMSP hit)
+MOL004464,MEHQ,cobT
+MOL004682,Methyl octylate,ADH1B
+MOL004682,Methyl octylate,ADH1C
+MOL005021,Mipax,PTGS2
+MOL005021,Mipax,PDE3A
+MOL005021,Mipax,GRIA2
+MOL005021,Mipax,ADRA2A
+MOL005272,13-Tetradecenyl acetate,NCOA2
+MOL005402,Methyl margarate,PTGS1
+MOL005402,Methyl margarate,NCOA2
+MOL005577,undecanal,OR1D2
+MOL006219,Clorius,LYZ
+MOL006219,Clorius,cobT
+MOL006219,Clorius,ADH1C
+MOL006312,Azulol,PTGS1
+MOL006312,Azulol,F2
+MOL006312,Azulol,CHRM1
+MOL006312,Azulol,ESR1
+MOL006312,Azulol,PTGS2
+MOL006312,Azulol,ADRA1A
+MOL006370,5-o-caffeoylquinic acid,GAA
+MOL007197,DFA,CHRM1
+MOL007197,DFA,ADRB1
+MOL007197,DFA,MAOB
+MOL007197,DFA,PTGS1
+MOL007197,DFA,SCN5A
+MOL007197,DFA,PTGS2
+MOL007197,DFA,ADRA2C
+MOL007197,DFA,ADRA1B
+MOL007197,DFA,SLC6A3
+MOL007197,DFA,SLC6A4
+MOL008206,Moslosooflavone,NOS2
+MOL008206,Moslosooflavone,PTGS1
+MOL008206,Moslosooflavone,F2
+MOL008206,Moslosooflavone,AR
+MOL008206,Moslosooflavone,SCN5A
+MOL008206,Moslosooflavone,PPARG
+MOL008206,Moslosooflavone,PTGS2
+MOL008206,Moslosooflavone,RXRA
+MOL008206,Moslosooflavone,ESR2
+MOL008206,Moslosooflavone,GABRA1
+MOL008206,Moslosooflavone,DPP4
+MOL008206,Moslosooflavone,MAPK14
+MOL008206,Moslosooflavone,GSK3B
+MOL008206,Moslosooflavone,HSP90AA1 / HSP90AB1
+MOL008206,Moslosooflavone,CDK2
+MOL008206,Moslosooflavone,PIK3CG
+MOL008206,Moslosooflavone,CHEK1
+MOL008206,Moslosooflavone,PRKACA
+MOL008206,Moslosooflavone,PRSS1
+MOL008206,Moslosooflavone,NCOA1
+MOL008206,Moslosooflavone,KCNMA1
+MOL008206,Moslosooflavone,CALM1
+MOL008206,Moslosooflavone,ADRA1B
+MOL008206,Moslosooflavone,ADRB2
+MOL008206,Moslosooflavone,CHRNA7
+MOL010415,"11,13-Eicosadienoic acid, methyl ester",NCOA2
+MOL010563,Methyl (Z)-cinnamate,PTGS1
+MOL010563,Methyl (Z)-cinnamate,PTGS2
+MOL010563,Methyl (Z)-cinnamate,ADRA2A
+MOL010563,Methyl (Z)-cinnamate,ADRA2C
+MOL010563,Methyl (Z)-cinnamate,SLC6A2
+MOL010563,Methyl (Z)-cinnamate,SLC6A3
+MOL010563,Methyl (Z)-cinnamate,MAOB
+MOL010563,Methyl (Z)-cinnamate,LYZ
+MOL010563,Methyl (Z)-cinnamate,TLN (Bacterial TCMSP hit)
+MOL011081,Linolenic acid methyl ester,PTGS1
+MOL011081,Linolenic acid methyl ester,PTGS2
+MOL012240,"2',3',5,7-tetrahydroxyflavone",PTGS1
+MOL012240,"2',3',5,7-tetrahydroxyflavone",PTGS2
+MOL012240,"2',3',5,7-tetrahydroxyflavone",CA2
+MOL012240,"2',3',5,7-tetrahydroxyflavone",PTPN1
+MOL012240,"2',3',5,7-tetrahydroxyflavone",DPP4
+MOL012240,"2',3',5,7-tetrahydroxyflavone",HSP90AA1 / HSP90AB1
+MOL012240,"2',3',5,7-tetrahydroxyflavone",PRSS1
+MOL012240,"2',3',5,7-tetrahydroxyflavone",NCOA2
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",PTGS1
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",PTGS2
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",CA2
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",HSP90AA1 / HSP90AB1
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",PRKACA
+MOL012245,"5,7,4'-trihydroxy-6-methoxyflavanone",CALM1
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",PTGS1
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",PTGS2
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",CA2
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",HSP90AA1 / HSP90AB1
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",PIK3CG
+MOL012246,"5,7,4'-trihydroxy-8-methoxyflavanone",PRKACA
+MOL012266,rivularin,NOS2
+MOL012266,rivularin,PTGS1
+MOL012266,rivularin,F2
+MOL012266,rivularin,KCNH2
+MOL012266,rivularin,AR
+MOL012266,rivularin,SCN5A
+MOL012266,rivularin,F10
+MOL012266,rivularin,PTGS2
+MOL012266,rivularin,NOS3
+MOL012266,rivularin,CA2
+MOL012266,rivularin,F7
+MOL012266,rivularin,KDR
+MOL012266,rivularin,RXRA
+MOL012266,rivularin,TOP2A
+MOL012266,rivularin,ESR2
+MOL012266,rivularin,DPP4
+MOL012266,rivularin,HSP90AA1 / HSP90AB1
+MOL012266,rivularin,PRSS1
+MOL012266,rivularin,NCOA2
+MOL012266,rivularin,NCOA1
+MOL012266,rivularin,KCNMA1
+MOL012266,rivularin,CALM1
+MOL012267,Scutevulin,NOS2
+MOL012267,Scutevulin,PTGS1
+MOL012267,Scutevulin,AR
+MOL012267,Scutevulin,PTGS2
+MOL012267,Scutevulin,CA2
+MOL012267,Scutevulin,PTPN1
+MOL012267,Scutevulin,DPP4
+MOL012267,Scutevulin,PYGM
+MOL012267,Scutevulin,MAPK14
+MOL012267,Scutevulin,GSK3B
+MOL012267,Scutevulin,HSP90AA1 / HSP90AB1
+MOL012267,Scutevulin,CDK2
+MOL012267,Scutevulin,PIK3CG
+MOL012267,Scutevulin,CHEK1
+MOL012267,Scutevulin,PRKACA
+MOL012267,Scutevulin,PRSS1
+MOL012267,Scutevulin,CALM1
+MOL013062,BZQ,PTGS1
+MOL013062,BZQ,SCN5A
+MOL013062,BZQ,PTGS2
+MOL013062,BZQ,CA2
+MOL013062,BZQ,LTA4H
+MOL013062,BZQ,MAOB
