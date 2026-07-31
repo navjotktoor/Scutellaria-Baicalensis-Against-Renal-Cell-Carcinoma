@@ -1,4 +1,4 @@
-# Molecular Docking and Network Pharmacological Analysis of Scutellaria baicalensis Against Renal Cell Carcinoma
+# Reproducing Molecular Docking and Network Pharmacological Analysis of Scutellaria baicalensis Against Renal Cell Carcinoma
 
 ## Overview
 This repository contains a full computational replication of the study analyzing the active components, target genes, and molecular mechanisms of ***Scutellaria baicalensis*** in the treatment of **Renal Cell Carcinoma (RCC)** (PMID: [38095405](https://pubmed.ncbi.nlm.nih.gov/38095405/)).
