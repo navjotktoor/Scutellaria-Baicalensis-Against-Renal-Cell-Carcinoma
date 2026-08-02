@@ -1,7 +1,7 @@
-Target_Gene,PDB_ID,Ligand,Binding_Energy_kcal_mol,Affinity_Rating
-TP53,1TUP,Wogonin,-6.8,Good
-STAT3,6TLC,Wogonin,-7.7,Strong
-CASP3,1QX3,Wogonin,-6.4,Good
-VEGFA,1VPF,Wogonin,-6.4,Good
-CCND1,237L,Wogonin,-7,Strong
-JUN,1FOS,Wogonin,-6.3,Good
+Target Name,PDB ID, Ligand Name,Docking Score (kcal/mol)
+TP53,7DHZ,Wogonin,-8.2
+STAT3,6NJS,Wogonin,-7.1
+CASP3,3DEK,Wogonin,-8.1
+VEGFA,1BJ1,Wogonin,-6.9
+CCND1,6P8E,Wogonin,-7.2
+JUN,5T01,Wogonin,-5.8
