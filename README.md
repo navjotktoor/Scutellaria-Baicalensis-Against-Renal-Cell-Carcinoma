@@ -1,18 +1,72 @@
-# Reproducing Scutellaria baicalensis vs. Renal Cell Carcinoma Analysis
+# Reproducing Molecular Docking and Network Pharmacological Analysis of Scutellaria baicalensis Against Renal Cell Carcinoma
 
 ## Overview
-This repository contains the data pipeline, network pharmacology scripts, and molecular docking workflows to reproduce the study on *Scutellaria baicalensis* active compounds against Renal Cell Carcinoma (RCC).
+This repository contains a full computational replication of the study analyzing the active components, target genes, and molecular mechanisms of ***Scutellaria baicalensis*** in the treatment of **Renal Cell Carcinoma (RCC)** (PMID: [38095405](https://pubmed.ncbi.nlm.nih.gov/38095405/)).
+
+The study demonstrates that *Scutellaria baicalensis* operates via a multi-component, multi-target mechanism involving 36 active compounds (including Wogonin, Baicalein, Acacetin, Oroxylin A, Moslosooflavone, Salvigenin, and Neobaicalein) targeting key signaling pathways such as PI3K-Akt, Ras, MAPK, p53, VEGF, and JAK-STAT.
+
+---
 
 ## Project Workflow
-1. **Active Compound Screening:** Extracting compounds from TCMSP based on Oral Bioavailability (OB ≥ 30%) and Drug-Likeness (DL ≥ 0.18).
-2. **Target Prediction & Mapping:** Cross-referencing herb targets with RCC disease targets from GeneCards & OMIM.
-3. **Network Pharmacology:** Building Protein-Protein Interaction (PPI) networks in STRING/Cytoscape to identify core hub genes.
-4. **Molecular Docking:** Simulating 3D binding affinities between candidate compounds (e.g., Baicalein) and target proteins using AutoDock Vina.
 
-## Folder Structure
-* `data/raw/`: Raw query data from TCMSP, GeneCards, OMIM, PubChem, and PDB.
-* `data/processed/`: Filtered active compounds and target intersection datasets.
-* `notebooks/`: Exploratory data analysis and network construction.
-* `scripts/`: Clean Python/R scripts for automated data parsing.
-* `results/`: Processed binding energies and PPI interaction tables.
-* `figures/`: Generated network graphs, Venn diagrams, and docking visualizations.
+1. **Active Compound Screening:** Extracted 36 active phytocompounds from *Scutellaria baicalensis* via TCMSP based on Oral Bioavailability ($\text{OB} \ge 30\%$) and Drug-Likeness ($\text{DL} \ge 0.18$).
+2. **Target Prediction & Mapping:** Identified 85 common drug-disease target genes between *Scutellaria baicalensis* drug targets and RCC disease targets obtained from OMIM, GeneCards, and DrugBank.
+3. **Network Pharmacology:** Constructed Component-Target-Disease PPI networks in STRING and Cytoscape to isolate core hub genes (`STAT3`, `CCND1`, `TP53`, `CASP3`, `VEGFA`, `JUN`, `AKT1`, `EGFR`).
+4. **Functional Enrichment:** GO Biological Process and KEGG pathway enrichment analysis performed via R/Bioconductor (`clusterProfiler`).
+5. **Molecular Docking:** Structure-based binding affinity validation between representative active compound Wogonin and core target proteins using AutoDock Vina / CB-Dock2.
+
+---
+
+## Key Molecular Docking Results
+
+Molecular docking validated strong binding affinities between Wogonin (a key active flavonoid of *Scutellaria baicalensis*) and top core protein receptors:
+
+| Target Gene | PDB ID | Ligand | Binding Energy (kcal/mol) | Affinity Rating |
+| :--- | :--- | :--- | :--- | :--- |
+| **STAT3** | **6TLC** | Wogonin | **-7.7** | Strong |
+| **CCND1** | **237L** | Wogonin | **-7.0** | Strong |
+| **TP53** | **1TUP** | Wogonin | **-6.8** | Good |
+| **CASP3** | **1QX3** | Wogonin | **-6.4** | Good |
+| **VEGFA** | **1VPF** | Wogonin | **-6.4** | Good |
+| **JUN** | **1FOS** | Wogonin | **-6.3** | Good |
+
+> **Metric Threshold:** Binding energy $\le -5.0\text{ kcal/mol}$ indicates good binding affinity; $\le -7.0\text{ kcal/mol}$ indicates strong binding affinity.
+
+---
+
+## Repository Structure
+
+```text
+.
+├── data/
+│   ├── docking/
+│   │   ├── casp3.pdb
+│   │   ├── ccnd1.pdb
+│   │   ├── jun.pdb
+│   │   ├── stat3.pdb
+│   │   ├── tp53.pdb
+│   │   ├── vegfa.pdb
+│   │   └── wogonin.sdf
+│   ├── processed/
+│   │   ├── docking_results.csv
+│   │   ├── go_enrichment.csv
+│   │   ├── hub_genes.csv
+│   │   └── kegg_enrichment.csv
+│   └── raw/
+│       ├── genecards_rcc_targets.csv
+│       ├── omim_rcc_targets.csv
+│       └── tcmsp_scutellaria_targets.csv
+├── figures/
+│   ├── docking_tp53_wogonin.png
+│   ├── go_enrichment_barplot.png
+│   ├── kegg_enrichment_dotplot.png
+│   └── ppi_network_hub_genes.png
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+├── results/
+│   └── interaction_tables.csv
+├── scripts/
+│   ├── enrichment_analysis.R
+│   └── ppi_network_construction.R
+├── LICENSE
+└── README.md
