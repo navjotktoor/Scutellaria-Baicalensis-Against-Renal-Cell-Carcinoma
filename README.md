@@ -1,7 +1,7 @@
-# Reproducing Molecular Docking and Network Pharmacological Analysis of Scutellaria baicalensis Against Renal Cell Carcinoma
+# Independent Computational Replication of "Molecular docking and network pharmacological analysis of Scutellaria baicalensis against renal cell carcinoma": An Audit and Methodological Analysis
 
 ## Overview
-This repository contains a full computational replication of the study analyzing the active components, target genes, and molecular mechanisms of ***Scutellaria baicalensis*** in the treatment of **Renal Cell Carcinoma (RCC)** (PMID: [38095405](https://pubmed.ncbi.nlm.nih.gov/38095405/)).
+This repository contains a full computational reproduction of the study analyzing the active components, target genes, and molecular mechanisms of ***Scutellaria baicalensis*** in the treatment of **Renal Cell Carcinoma (RCC)** (PMID: [38095405](https://pubmed.ncbi.nlm.nih.gov/38095405/)).
 
 The study demonstrates that *Scutellaria baicalensis* operates via a multi-component, multi-target mechanism involving 36 active compounds (including Wogonin, Baicalein, Acacetin, Oroxylin A, Moslosooflavone, Salvigenin, and Neobaicalein) targeting key signaling pathways such as PI3K-Akt, Ras, MAPK, p53, VEGF, and JAK-STAT.
 
@@ -10,27 +10,10 @@ The study demonstrates that *Scutellaria baicalensis* operates via a multi-compo
 ## Project Workflow
 
 1. **Active Compound Screening:** Extracted 36 active phytocompounds from *Scutellaria baicalensis* via TCMSP based on Oral Bioavailability ($\text{OB} \ge 30\%$) and Drug-Likeness ($\text{DL} \ge 0.18$).
-2. **Target Prediction & Mapping:** Identified 85 common drug-disease target genes between *Scutellaria baicalensis* drug targets and RCC disease targets obtained from OMIM, GeneCards, and DrugBank.
+2. **Target Prediction & Mapping:** Identified 55 common drug-disease target genes between *Scutellaria baicalensis* drug targets and RCC disease targets obtained from OMIM, and GeneCards.
 3. **Network Pharmacology:** Constructed Component-Target-Disease PPI networks in STRING and Cytoscape to isolate core hub genes (`STAT3`, `CCND1`, `TP53`, `CASP3`, `VEGFA`, `JUN`, `AKT1`, `EGFR`).
 4. **Functional Enrichment:** GO Biological Process and KEGG pathway enrichment analysis performed via R/Bioconductor (`clusterProfiler`).
-5. **Molecular Docking:** Structure-based binding affinity validation between representative active compound Wogonin and core target proteins using AutoDock Vina / CB-Dock2.
-
----
-
-## Key Molecular Docking Results
-
-Molecular docking validated strong binding affinities between Wogonin (a key active flavonoid of *Scutellaria baicalensis*) and top core protein receptors:
-
-| Target Gene | PDB ID | Ligand | Binding Energy (kcal/mol) | Affinity Rating |
-| :--- | :--- | :--- | :--- | :--- |
-| **STAT3** | **6TLC** | Wogonin | **-7.7** | Strong |
-| **CCND1** | **237L** | Wogonin | **-7.0** | Strong |
-| **TP53** | **1TUP** | Wogonin | **-6.8** | Good |
-| **CASP3** | **1QX3** | Wogonin | **-6.4** | Good |
-| **VEGFA** | **1VPF** | Wogonin | **-6.4** | Good |
-| **JUN** | **1FOS** | Wogonin | **-6.3** | Good |
-
-> **Metric Threshold:** Binding energy $\le -5.0\text{ kcal/mol}$ indicates good binding affinity; $\le -7.0\text{ kcal/mol}$ indicates strong binding affinity.
+5. **Molecular Docking:** Structure-based binding affinity validation between representative active compound Wogonin and core target proteins using AutoDock Vina / CB-Dock2 and PyMOL.
 
 ---
 
