@@ -13,7 +13,7 @@ The study demonstrates that *Scutellaria baicalensis* operates via a multi-compo
 2. **Target Prediction & Mapping:** Identified 85 common drug-disease target genes between *Scutellaria baicalensis* drug targets and RCC disease targets obtained from OMIM, GeneCards, and DrugBank.
 3. **Network Pharmacology:** Constructed Component-Target-Disease PPI networks in STRING and Cytoscape to isolate core hub genes (`STAT3`, `CCND1`, `TP53`, `CASP3`, `VEGFA`, `JUN`, `AKT1`, `EGFR`).
 4. **Functional Enrichment:** GO Biological Process and KEGG pathway enrichment analysis performed via R/Bioconductor (`clusterProfiler`).
-5. **Molecular Docking:** Structure-based binding affinity validation between representative active compound Wogonin and core target proteins using AutoDock Vina / CB-Dock2 and PyMol.
+5. **Molecular Docking:** Structure-based binding affinity validation between representative active compound Wogonin and core target proteins using AutoDock Vina / CB-Dock2 and PyMOL.
 
 ---
 
